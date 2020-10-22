@@ -1,6 +1,5 @@
 module.exports = [
-    'id',
-    'name',
+    'fullName',
     'username',
     'email',
     'password'
