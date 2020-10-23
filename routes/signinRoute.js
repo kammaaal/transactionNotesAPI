@@ -3,7 +3,7 @@ const app = express.Router()
 const db = require('../controller/dbController')
 const hyperid = require('hyperid')
 
-app.post('/SignIn', (req, res) => {
+app.post('/signin', (req, res) => {
     const result = db.get('accounts', req.body)
     if (result) {
         const instance = hyperid()

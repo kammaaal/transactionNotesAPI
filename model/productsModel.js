@@ -3,6 +3,5 @@ module.exports = [
     'name',
     'type',
     'price',
-    'storeId',
     'promoId'
 ]

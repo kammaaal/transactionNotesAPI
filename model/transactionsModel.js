@@ -1,10 +1,12 @@
 module.exports = [
     'id',
+    'storeName',
     'productId',
     'accountId',
-    'wishlistId',
     'productCount',
+    'promoStatus',
     'totalPrice',
     'paymentMethod',
-    'timeStamp'
+    'timeStamp',
+    'status'
 ]
