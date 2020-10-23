@@ -1,6 +1,43 @@
 {
-  "accounts": [],
-  "products": [],
-  "promos": [],
-  "transactions": []
+  "accounts": [
+    {
+      "id": "7",
+      "fullName": "joko tingkir",
+      "username": "bukanjokowi",
+      "email": "sijokobodo@gmail.com",
+      "password": "jokotiada2",
+      "token": "xnOQ20sATraFM+aoPwfebQ/0"
+    }
+  ],
+  "products": [
+    {
+      "id": "12",
+      "name": "Iphone 12 Pro 01",
+      "type": "smartphone",
+      "price": "3000000",
+      "promoId": "1"
+    }
+  ],
+  "promos": [
+    {
+      "id": "1",
+      "name": "beli 1 gadapet apa apa",
+      "startDate": "2020-01-01",
+      "endDate": "2020-12-31"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "11",
+      "storeName": "tong fang",
+      "productId": "1AJ",
+      "accountId": "7",
+      "productCount": "11",
+      "promoStatus": "applied",
+      "totalPrice": "500000",
+      "paymentMethod": "transfer ATM",
+      "timeStamp": "2020-12-05",
+      "status": "paid"
+    }
+  ]
 }
