@@ -1,41 +1,6 @@
 {
-  "accounts": [
-    {
-      "fullName": "joko tingkir",
-      "username": "bukanjokowi",
-      "email": "sijokobodo@gmail.com",
-      "password": "jokotiada2",
-      "token": "Pt7osurCQwm3hhGwfWiWNA/0"
-    }
-  ],
-  "products": [
-    {
-      "id": "55",
-      "name": "mainan dewasa",
-      "type": "toys",
-      "price": "500000",
-      "storeId": "12",
-      "promoId": "9A"
-    },
-    {
-      "id": "55",
-      "name": "mainan dewasa",
-      "type": "toys",
-      "price": "500000",
-      "storeId": "12",
-      "promoId": "9A"
-    },
-    {
-      "id": "30",
-      "name": "buku putih",
-      "type": "books",
-      "price": "235000",
-      "storeId": "5",
-      "promoId": "8oap"
-    }
-  ],
+  "accounts": [],
+  "products": [],
   "promos": [],
-  "wihslist": [],
-  "transactions": [],
-  "postTransactions": []
+  "transactions": []
 }
